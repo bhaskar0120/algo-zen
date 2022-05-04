@@ -1,11 +1,11 @@
 ### ALGOZEN PROJECT
 
 This was the assignment given to me by algozen
-The tasks that were given.
 
-[x] Get the name of all the kotlin repos and sort it by stars
-[x] Add a second page 
-[x] Get the README file and stars from the given repo
+### Tasks
+- [x] Get the name of all the kotlin repos and sort it by stars
+- [x] Add a second page 
+- [x] Get the README file and stars from the given repo
 
 All the task are completed as was mentioned.
 
