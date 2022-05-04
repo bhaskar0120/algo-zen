@@ -9,6 +9,10 @@ This was the assignment given to me by algozen
 
 All the task are completed as was mentioned.
 
-#### Fallbacks
+### Fallbacks
 - As there are no icons on the repos, they were not added.
 - The Github API does not support GET Request for READMEs hence **raw** README file is presented
+
+### Screenshots
+![Screenshot1](./screenshot1.jpeg)
+![Screenshot2](./screenshot2.jpeg)
