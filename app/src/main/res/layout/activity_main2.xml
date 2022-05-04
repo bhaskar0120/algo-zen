@@ -39,7 +39,7 @@
             <TextView
                 android:id="@+id/text_box"
                 android:layout_width="match_parent"
-                android:layout_height="693dp"
+                android:layout_height="6930dp"
                 android:text="@string/loading_readme"
                 android:textColor="#252525" />
         </LinearLayout>
